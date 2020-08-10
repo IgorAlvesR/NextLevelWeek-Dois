@@ -1,0 +1,9 @@
+//GET: buscar ou lista uma informação
+//POST: criar alguma nova informação
+//PUT: atualizar um informação
+//DELETE: deletar uma informação
+
+//Corpo: (Request Body): Dados para criação ou atualização de um registro
+//Route Params: identificar qual recurso eu quero atualizar ou deletar
+//Query params: Paginação, filtros, ordenação
+
